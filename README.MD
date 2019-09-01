@@ -1,4 +1,5 @@
-## VUE JS TUTORIAL CODE COLLECTION
+## VUE JS TUTORIAL CODE COLLECTION  
+by [vue js tutorial videos](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)  
 
 # lesson 1
 
